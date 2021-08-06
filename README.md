@@ -13,13 +13,13 @@ A car seat's temperature is controlled by the Seat Heating control system. When 
 >6. Temp to CAN shows the value of temperature gone over protocol
 
 # Given casestudy:
-![case study](https://github.com/2015pushkar/303459_Embedded_casestudy/blob/main/303459_Embedded_CaseStudy/IMAGES%20AND%20RESULTS/casestudy.JPG)
+![case study](https://github.com/LoneWalker619/311173_Embedded_CaseStudy/blob/main/IMAGES%20AND%20RESULTS/casestudy.JPG)
 
 # Conditions:
-![conditions](https://github.com/2015pushkar/303459_Embedded_casestudy/blob/main/303459_Embedded_CaseStudy/IMAGES%20AND%20RESULTS/tabulation.JPG)
+![conditions](https://github.com/LoneWalker619/311173_Embedded_CaseStudy/blob/main/IMAGES%20AND%20RESULTS/tabulation.JPG)
 
 # Solution:
-![solution](https://github.com/2015pushkar/303459_Embedded_casestudy/blob/main/303459_Embedded_CaseStudy/IMAGES%20AND%20RESULTS/Screenshot%20(38).png)
+![solution](https://github.com/LoneWalker619/311173_Embedded_CaseStudy/blob/main/IMAGES%20AND%20RESULTS/Screenshot%20(36).png)
 
 
 
